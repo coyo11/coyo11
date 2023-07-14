@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hunter!, an IT and Cyber Security Enthusiast and Aspiring Cloud Engineer</h1>
+<h1>Hi, I'm Hunter, an IT and Cyber Security Enthusiast and Aspiring Cloud Engineer</h1>
 
 <h2>👨‍💻 My Projects:</h2>
 
