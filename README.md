@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hunter! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, YouTuber</a></h1>
+<h1>Hi, I'm Hunter!, an IT and Cyber Security Enthusiast and aspiring Cloud Engineer</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
