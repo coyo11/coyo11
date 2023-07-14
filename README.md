@@ -1,6 +1,6 @@
-<h1>Hi, I'm Hunter!, an IT and Cyber Security Enthusiast and aspiring Cloud Engineer</h1>
+<h1>Hi, I'm Hunter!, an IT and Cyber Security Enthusiast and Aspiring Cloud Engineer</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cloud and Cyber Security Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
