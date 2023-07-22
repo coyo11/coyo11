@@ -5,7 +5,7 @@
 - <b>Azure/Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/coyo11/Azure-SOC)
   - [Configuring Active Directory within Azure VMs](https://github.com/coyo11/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/coyo11/azure-network-protocols)
  
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/coyo11/osticket-prereqs)
