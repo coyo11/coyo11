@@ -8,7 +8,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/)
  
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/)
+  - [osTicket: Prerequisites and Installation](https://github.com/coyo11/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/)
 
