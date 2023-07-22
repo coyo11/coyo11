@@ -4,13 +4,13 @@
 
 - <b>Azure/Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/coyo11/Azure-SOC)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/)
+  - [Configuring Active Directory within Azure VMs](https://github.com/)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/)
  
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/coyo11/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/)
+  - [osTicket: Post-Installation Configuration](https://github.com/coyo11/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/coyo11/ticket-lifecycle)
 
 
 
