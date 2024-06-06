@@ -3,6 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure/Cloud Projects</b>
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/coyo11/Deploy-a-Static-Website-on-AWS/tree/main)
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/coyo11/Azure-SOC)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/coyo11/azure-network-protocols)
   
